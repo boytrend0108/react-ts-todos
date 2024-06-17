@@ -3,3 +3,4 @@
 Implement a simple [TODO app] working as described below.
 
 ![todoapp](./description/todoapp.gif)
+![todoapp](./description/edittodo.gif)
