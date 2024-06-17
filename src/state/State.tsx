@@ -121,6 +121,7 @@ const reducer = (state: State, action: Action): State => {
 
 export const TodosContext = React.createContext(initialState);
 export const DispatchContext = React.createContext(
+  // eslint-disable-next-line prettier/prettier
   (() => { }) as React.Dispatch<Action>,
 );
 
