@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
+# React ToDo App
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Implement a simple [TODO app](http://todomvc.com/examples/vanillajs/) working as described below.
